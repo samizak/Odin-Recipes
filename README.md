@@ -5,4 +5,4 @@
 Very simple HTML Recipe website
 
 ## Live Preview
-https://samizak.github.io/odin-recipes/
+https://samizak.github.io/Odin-Recipes/
